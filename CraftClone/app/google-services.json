@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266287913363",
+    "project_id": "craft-4aaa5",
+    "storage_bucket": "craft-4aaa5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266287913363:android:5031fdb49e4bdd9f8df066",
+        "android_client_info": {
+          "package_name": "com.akif.craftclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjsA5vI6ILqYn-KonfZbl6THFwruqvQX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
